@@ -14,6 +14,6 @@ This is a small project demonstrating the integration of React Hook Form with Zo
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rubel011/react-form-validate.git
+   git clone https://github.com/Rubel011/react-form-validate.git
    ```
 
